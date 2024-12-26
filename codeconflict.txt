@@ -1,3 +1,5 @@
 Crear conflicto desde VS CODE
 
+Cambios desde mi rama local
+
 Cambios desde rama main
